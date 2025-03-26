@@ -1,3 +1,3 @@
-module github.com/zheng8501/pinyin
+module github.com/shuimeimei/pinyin
 
 go 1.15
